@@ -1,4 +1,4 @@
-# Implementation of a complex Use-case using TDD and Java - Paint Brush which works on Console
+# Implementation of Paint Brush which works on Console using TDD
 
 You can chose to draw various shapes on console using CLI 
 
